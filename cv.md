@@ -52,4 +52,15 @@ At the same time I study object-oriented programming, algorithms, I read special
 ### Experience
 I have no examples of practical material in development; there is no experience in development.
 
+### Education
+
+| Higher education institution|Department          |Specialization 
+----------------|----------------|--------------- 
+|International University «MITSO»| Faculty of International Economic Relations and Management  |Advertising 
+|International University «MITSO»|Economy and management |Human Resources
+
+##### Additionally
+>Htmlacademy
+
+>Yandex.Praktikum
 
