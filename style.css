@@ -1,0 +1,52 @@
+body {
+    margin: 0; 
+    padding: 0; 
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Segoe Ui", "Arial", sans-serif;
+}
+
+main {
+    width: 1024px;
+    margin: 0 auto; 
+    text-align: left;
+}
+
+h1, h3, h5 {
+    font-weight: 500;
+}
+
+ a {
+    text-decoration: none;
+}
+
+pre {
+    background: #e1e4e8; 
+}
+
+table {
+    width: 1024px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding-left: 10px;
+    border: 1px solid black;
+}
+
+.greycolor {
+    text-align: left;
+    background: #e1e4e8;
+}
+
+.border {
+    padding-left: 10px;  
+    color: #838689;
+    border-left: 3px solid #838689; 
+}
+
+.center {
+    text-align: center;
+}
+
